@@ -4,7 +4,7 @@
 
 ## Sample Image
 
-<img src="https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20221024145817296.png" alt="image-20221024145817296" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20221024145817296.png" alt="image-20221024145817296" width="300px" />
 
 ## Usage
 

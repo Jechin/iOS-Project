@@ -6,7 +6,7 @@ forked from https://github.com/zhongjianfeipqy/VerificationCode
 
 ## Sample Image
 
-<img src="https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20221024151505348.png" alt="image-20221024151505348" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20221024151505348.png" alt="image-20221024151505348" width="300px" />
 
 ## Usage
 
