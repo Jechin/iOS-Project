@@ -18,6 +18,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         super.viewDidLoad()
         showLoginWinsow()
         self.navigationController?.setNavigationBarHidden(true, animated: true)
+        self.view.backgroundColor = .white
     }
     
     func showLoginWinsow() {
