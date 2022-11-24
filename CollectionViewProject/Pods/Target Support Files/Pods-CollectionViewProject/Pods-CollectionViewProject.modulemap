@@ -1,0 +1,6 @@
+framework module Pods_CollectionViewProject {
+  umbrella header "Pods-CollectionViewProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
